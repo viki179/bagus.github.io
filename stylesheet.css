@@ -100,3 +100,14 @@ input, textarea {
 .footer-list li {
   padding-bottom: 20px;
 }
+
+<head>
+<style>
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+}
+</style>
+</head>
